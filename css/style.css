@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background: linear-gradient(#e66465, #9198e5);;
+    color: white; /*color font*/
+    font-family: georgia, 'times new roman',serif;
+    font-size: 1.125em;
+    line-height: 1.5;
+}
+
+.photos{
+    background-color: turquoise;
+    color: yellow;
+    width: 28em;
+    margin: auto;
+}
+.image{
+    width: 28em;
+}
+
+.primary-heading {
+    color: teal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.5em;
+    margin: auto;
+}
+
+.hobbies {
+    background-color: turquoise;
+    color: yellow;
+    width: 28em;
+    margin: auto;
+}
+
+.highlight{
+    background-color: rebeccapurple;
+    color: white;
+    font-style: oblique;
+    font-weight: 600;
+}
